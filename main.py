@@ -18,7 +18,7 @@ def index():
         - more commits!
         - collaborated with others!
         - feature branching
-
+        - intentinal collision
     </pre>'''
 
 if __name__ == '__main__':
