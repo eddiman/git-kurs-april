@@ -15,10 +15,17 @@ def index():
         - git commit
         - git log
 
+
         - more commits!
+
         - collaborated with others!
         - feature branching
         - intentinal collision
+
+
+
+        Conflict session
+        - This will conflict, probably
     </pre>
     <footer> Useful links:
     <ul>
