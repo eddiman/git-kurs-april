@@ -14,6 +14,8 @@ def index():
         - git add
         - git commit
         - git log
+
+        - more commits!
     </pre>'''
 
 if __name__ == '__main__':
