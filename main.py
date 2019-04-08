@@ -16,6 +16,7 @@ def index():
         - git log
 
         - more commits!
+        - collaborated with others! 
     </pre>'''
 
 if __name__ == '__main__':
