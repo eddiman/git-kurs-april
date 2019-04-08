@@ -9,7 +9,7 @@ def index():
         Welcome!
         So far we learned:
         - git init
-        - git status 
+        - git status
         - .gitignore
         - git add
         - git commit
@@ -19,8 +19,12 @@ def index():
         - collaborated with others!
         - feature branching
         - intentinal collision
-    </pre>'''
+    </pre>
+    <footer> Nyttige Lenker:
+    <ul>
+    </ul>
+    </footer>
+    '''
 
 if __name__ == '__main__':
     serve(app)
-
