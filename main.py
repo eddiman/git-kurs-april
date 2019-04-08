@@ -20,8 +20,12 @@ def index():
         - feature branching
         - intentinal collision
     </pre>
-    <footer> Nyttige Lenker:
+    <footer> Useful links:
     <ul>
+        <li><a href="https://github.com/github/gitignore">.gitignore</a> </li>
+        <li><a href="https://www.gitkraken.com/git-client">GitKraken</a> </li>
+        <li><a href="https://www.sourcetreeapp.com/">SourceTree</a> </li>
+        <li><a href="https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent">Authentication via SSH</a></li>
     </ul>
     </footer>
     '''
