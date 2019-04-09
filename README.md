@@ -93,6 +93,10 @@ ____
 
 #### Other useful links
 
+A cheatsheet with many useful git commands: 
+
+[Git Cheatsheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
+
 There are also other git tools with UI that can be used instead of the CLI:
 
 [GitKraken](https://www.gitkraken.com/git-client)
