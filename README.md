@@ -1,5 +1,43 @@
 # Git Workshop with Knowit, 8. april
 
+##Running the application
+
+#### Prerequisites
+
+[Python3](https://www.python.org/downloads/) 
+
+#### Download the application
+
+1. Open a command line terminal 
+ * In *Windows:* cmd, PowerShell or git Bash, *MacOS:* Terminal)
+2. Navigate to a folder where you want to clone it into
+3. Clone the repo, see code snippet under:
+
+HTTPS:
+```
+git clone https://github.com/eddiman/git-kurs-april.git
+```
+
+SSH:
+```
+git clone git@github.com:eddiman/git-kurs-april.git
+```
+See bottom of this readme on how to use SSH
+
+#### Running the application 
+
+1. Open a command line terminal 
+  * In *Windows:* cmd, PowerShell or git Bash, *MacOS:* Terminal)
+2. Navigate to the folder where you cloned the repository.
+3. Run ``` python3 -m pip install virtualenv```
+4. When this is done, start the virtual environment: ```python3 -m virtualenv venv```
+5. If Windows: ```. venv/Scripts/activate on Windows```, if MacOS/UNIX ```source venv/bin/activate```
+6. Write ```pip install -r requirements.txt``` in the command line
+7. Start the application by writing ```python main.py```
+8. When it has started, navigate to ```localhost:6060``` using the web browser.
+
+
+## Git commands
 
 Most common commands for git:  
 
